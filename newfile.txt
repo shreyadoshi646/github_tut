@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8">
+<title>Resume - Sheya Doshi</title>
+<style>
+        ody {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;}
+            .container {
+            width: 60%;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;}
+        h2 {
+            color: #2c3e50;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+      h3 { margin-bottom: 5px; }p { line-height: 1.6;}
+        ul {margin-left: 20px; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Sheya Doshi</h1>
+    <p>Email: shreyadoshi646@gmail.com | Phone: +91-6745327193</p>
+    <h2>Career Objective</h2>
+    <p>
+        Enthusiastic Electronics and Telecommunication engineering student seeking an opportunity
+        to apply knowledge in circuit design, embedded systems, and communication technologies
+        while contributing to innovative engineering solutions.
+    </p>
+    <h2>Education</h2>
+    <p>
+        B.Tech in Electronics & Telecommunication<br>
+        Walchand Institute of Technology, Solapur<br>
+        Expected Graduation: 2027<br>
+        CGPA: 9.34
+    </p>
+    <h2>Technical Skills</h2>
+    <ul>
+        <li>C Programming (Basic)</li>
+        <li>Circuit Designing</li>
+        <li>Java</li>
+    </ul>
+    <h2>Projects</h2>
+    <h3>Fall Detection System</h3>
+    <ul>
+        <li>Designed a system to detect sudden falls using sensor data.</li>
+        <li>Used microcontroller for real-time monitoring.</li>
+    </ul>
+    <h3>Smart Street Light System</h3>
+    <ul>
+        <li>Automated street lighting using sensors.</li>
+        <li>Improves energy efficiency.</li><ul>
+    <h2>Achievements</h2>
+    <ul><li>Participant in Smart India Hackathon 2025</li>
+    <li>Participant in Smart India Hackathon 2026</li>
+    </ul><h2>Personal Details</h2>
+    <p> Date of Birth: 11/06/2004<br>Languages: English, Hindi, Marathi  </p>
+</div>
+</body>
+</html>
